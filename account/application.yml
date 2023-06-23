@@ -1,0 +1,15 @@
+database:
+  host: localhost
+  port: 3306
+  username: root
+  password: 
+  dbname: erp_medical
+  driver: mysql
+jwt:
+  secret: skskjjekrko@103SSFk
+file:
+  logpath: Logs
+server:
+  port: 8000
+
+
